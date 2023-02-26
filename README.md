@@ -1,4 +1,4 @@
-### <img align="left" src="img/github-mark.png" width="3%">Hi, Welcome to my github page. 
+### Hi, Welcome to my github page. 
 <img align="left" src="https://github.com/saandial/Open-Copter/blob/main/src/images/opencopter.png" width="25%">
 <img align="left" src="https://github.com/saandial/Open-Copter/blob/main/src/images/remote.png" width="25%">  
 I am currently working on my personal Open Source project <a href="https://github.com/saandial/Open-Copter" target="_blank">Open Copter</a> a scalable modular drone prototype.
