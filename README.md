@@ -1,4 +1,4 @@
-### Welcome to my page. 
+### Hi, Welcome to my github page. 
 Open Copter is my personal project that I currently working on. It is fully Open Source, so enjoy it
 
 <div align="left">
