@@ -2,7 +2,7 @@
 <img align="left" src="https://github.com/saandial/Open-Copter/blob/main/src/images/opencopter.png" width="25%">
 <img align="left" src="https://github.com/saandial/Open-Copter/blob/main/src/images/remote.png" width="25%">  
 I'm currently working on my Open Source project <a href="https://github.com/saandial/Open-Copter" target="_blank">Open Copter</a> a modular scalable drone. I started this project two years ago in 2020. For more details about how Open Copter works, checkout the project page by the link just below. 
-<br/> As I said this project is under development, so if you have any feedback, question or suggestion, please contact me.<br><br>
+<br/> As I said this project is under development, so if you have any feedback, question or suggestion, please contact me.<br>
 - Project Link: <a href="https://github.com/saandial/Open-Copter" target="_blank">https://github.com/saandial/Open-Copter</a><br/>
 - Email: <a href="https://github.com/saandial/Open-Copter" target="_blank">almoutazar.saandi@gmail.com</a> 
 
