@@ -1,4 +1,5 @@
-<img align="left" src="https://github.com/almtzr/Pedro/blob/main/img/pedro_2.0.png" width="100%">
+<a href="https://github.com/almtzr/Pedro"><strong>Pedro Project</strong></a>
 
-# Project Link: <a href="https://github.com/almtzr/Pedro" target="_blank">https://github.com/almtzr/Pedro</a><br/>
+<img align="left" src="https://github.com/almtzr/Pedro/blob/main/img/pedro_2.0.png" width="50%">
+
 
