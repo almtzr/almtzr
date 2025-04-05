@@ -1,4 +1,4 @@
-#  🚀 🎉 Pedro has been funded at 268% on [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0) 🚀
+#  🚀 🎉 [Pedro](https://github.com/almtzr/Pedro) has been funded at 268% on [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0) 🚀
 
 Pedro has become a reality, and the adventure is just beginning.
 
