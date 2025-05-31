@@ -1,4 +1,4 @@
-# 🤖 Pedro – The Open Source Educational Robot
+# Pedro – The Open Source Educational Robot
 
 ![Pedro Robot Cover](https://github.com/almtzr/Pedro/blob/main/img/Pedro_Cover2.png)
 
@@ -22,7 +22,7 @@ Pedro combines the power of C++, Arduino, wireless modules (NRF24L01, HC-05, WiF
 
 ---
 
-### 💻 [`almtzr/Pedro-Firmware`](https://github.com/almtzr/Pedro-Firmware)
+### 📂 [`almtzr/Pedro-Firmware`](https://github.com/almtzr/Pedro-Firmware)
 > 🧠 **Pedro's brain**: Source code for the embedded firmware that runs on Pedro's controller.  
 - Modular C++ code  
 - Supports USB, Bluetooth, WiFi, Serial, and NRF24L01 control  
@@ -31,12 +31,20 @@ Pedro combines the power of C++, Arduino, wireless modules (NRF24L01, HC-05, WiF
 
 ---
 
-### 🖥️ [`almtzr/Pedro-IHM`](https://github.com/almtzr/Pedro-IHM)
-> 🎛 **Pedro IHM (Interface Homme-Machine)**: A desktop app for Windows, macOS, and Linux that allows users to:
+### 📂 [`almtzr/Pedro-IHM`](https://github.com/almtzr/Pedro-IHM)
+> 💻 **Pedro IHM (Interface Homme-Machine)**: A desktop app for Windows, macOS, and Linux that allows users to:
 - Control Pedro in real-time  
 - Flash the firmware without needing to install AVRDUDE separately  
 - Connect via USB or Bluetooth  
 - Simple and cross-platform Python-based app (bundled with compiled `.exe`, `.dmg`, and Linux builds)
+
+---
+
+### 📂 [`Pedro-Get-Started`](https://github.com/almtzr/Pedro-Get-Started)
+> 🤖 **Bring Pedro to life**: This repository contains everything you need to assemble your Pedro robot from scratch.
+- 3D printing instructions and STL files
+- Step-by-step assembly guide
+- Complete list of required parts and electronics
 
 ---
 
