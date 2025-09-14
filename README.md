@@ -47,10 +47,9 @@ Pedro combines the power of C++, Arduino, wireless modules (NRF24L01, HC-05, WiF
 
 ---
 
-## 📬 Stay in the Loop
-
-A web shop is on the way!  
-👉 [Sign up to get notified](https://pedrobot.com) when the Pedro robot kit becomes available.
+## 🌐 Website
+> For School Collaboration
+👉 [PEDROBOT.COM](https://pedrobot.com).
 
 ---
 
