@@ -8,33 +8,21 @@ Pedro combines the power of C++, Arduino, wireless modules (NRF24L01, HC-05, WiF
 
 ---
 
-## 🚀 Project Repositories
+## 🚀 Pedro Project Repositories
 
 🔧 Each Pedro repository serves a specific role in the ecosystem:
 
-### 📘 [`almtzr/Pedro`](https://github.com/almtzr/Pedro)
-> 🔎 **Discover Pedro**: A full overview of the robot including:
-- Technical specifications  
-- Open source certification (OSHWA)  
-- Showcase images & animations  
-- Kickstarter campaign highlights  
-- Assembly references  
+### 📂 [`Pedro`](https://github.com/almtzr/Pedro)
+> 🖨️ 3D printing resources — STL files and assembly instructions for building the Pedro robot chassis.
 
----
+### 📂 [`PedroBoard`](https://github.com/almtzr/PedroBoard)
+> ⚡ Hardware design — Gerber files, schematics, and PCB layouts for the Pedro controller board.
 
-### 📂 [`almtzr/Pedro-Firmware`](https://github.com/almtzr/PedroRobot)
-> 🧠 **Pedro's brain**: Source code for the embedded firmware that runs on Pedro's controller.  
-- Modular C++ code  
-- Supports USB, Bluetooth, WiFi, Serial, and NRF24L01 control  
-- Includes `.hex` builds for flashing  
-- Arduino-compatible `.zip` library for developers  
+### 📂 [`PedroRobot`](https://github.com/almtzr/PedroRobot)
+> 💻 Firmware — Arduino source code and library to program and control the Pedro robot.
 
----
-
-### 📂 [`almtzr/Pedro-WebInterface`](https://github.com/almtzr/Pedro-IHM)
-> 💻 **Pedro Web Interface (Interface Homme-Machine)**: A web browser app that allows users to:
-- Control Pedro in real-time  
-- Connect via USB or Bluetooth  
+### 📂 [`PedroSTEM`](https://github.com/almtzr/PedroSTEM)
+  🎓 Education — STEM lessons, activities, and teaching material using the Pedro robot for schools.
 
 ---
 
