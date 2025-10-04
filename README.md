@@ -22,7 +22,7 @@ Pedro combines the power of C++, Arduino, wireless modules (NRF24L01, HC-05, WiF
 > 💻 Firmware — Arduino source code and library to program and control the Pedro robot.
 
 ### 📂 [`PedroSTEM`](https://github.com/almtzr/PedroSTEM)
-  🎓 Education — STEM lessons, activities, and teaching material using the Pedro robot for schools.
+> 🎓 Education — STEM lessons, activities, and teaching material using the Pedro robot for schools.
 
 ---
 
