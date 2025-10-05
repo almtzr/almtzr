@@ -15,13 +15,13 @@ Pedro combines the power of C++, Arduino, wireless modules (NRF24L01, HC-05, WiF
 ### 📂 [`Pedro`](https://github.com/almtzr/Pedro)
 > 🖨️ 3D printing resources — STL files and assembly instructions for building the Pedro robot chassis.
 
-### 📂 [`PedroBoard`](https://github.com/almtzr/PedroBoard)
+### 📂 [`Pedro Board`](https://github.com/almtzr/PedroBoard)
 > ⚡ Hardware design — Gerber files, schematics, and PCB layouts for the Pedro controller board.
 
-### 📂 [`PedroRobot`](https://github.com/almtzr/PedroRobot)
+### 📂 [`Pedro Robot`](https://github.com/almtzr/PedroRobot)
 > 💻 Firmware — Arduino source code and library to program and control the Pedro robot.
 
-### 📂 [`PedroSTEM`](https://github.com/almtzr/PedroSTEM)
+### 📂 [`Pedro STEM`](https://github.com/almtzr/PedroSTEM)
 > 🎓 Education — STEM lessons, activities, and teaching material using the Pedro robot for schools.
 
 ---
